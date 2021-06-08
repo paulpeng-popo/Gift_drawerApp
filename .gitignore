@@ -1,2 +1,4 @@
 *.pdf
 *.json
+*.rar
+drawer/*.json
